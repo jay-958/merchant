@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package info.androidhive.slidingmenu;
+package info.androidhive.merchantnavyjob;
 
 public final class R {
     public static final class array {

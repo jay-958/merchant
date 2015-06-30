@@ -1,7 +1,7 @@
-package info.androidhive.slidingmenu;
+package info.androidhive.merchantnavyjob;
 
-import info.androidhive.slidingmenu.adapter.NavDrawerListAdapter;
-import info.androidhive.slidingmenu.model.NavDrawerItem;
+import info.androidhive.merchantnavyjob.adapter.NavDrawerListAdapter;
+import info.androidhive.merchantnavyjob.model.NavDrawerItem;
 
 import java.util.ArrayList;
 

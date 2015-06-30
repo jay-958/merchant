@@ -1,4 +1,4 @@
-package info.androidhive.slidingmenu;
+package info.androidhive.merchantnavyjob;
 
 import android.app.Fragment;
 import android.os.Bundle;

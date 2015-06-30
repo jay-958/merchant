@@ -1,4 +1,4 @@
-package info.androidhive.slidingmenu;
+package info.androidhive.merchantnavyjob;
 
 import android.app.Fragment;
 import android.os.Bundle;
@@ -6,15 +6,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class PagesFragment extends Fragment {
+public class HomeFragment extends Fragment {
 	
-	public PagesFragment(){}
+	public HomeFragment(){}
 	
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState) {
  
-        View rootView = inflater.inflate(R.layout.fragment_pages, container, false);
+        View rootView = inflater.inflate(R.layout.fragment_home, container, false);
          
         return rootView;
     }

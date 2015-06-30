@@ -1,4 +1,4 @@
-package info.androidhive.slidingmenu.model;
+package info.androidhive.merchantnavyjob.model;
 
 public class NavDrawerItem {
 	
